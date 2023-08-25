@@ -32,15 +32,3 @@ flexible. Integration test examples have these important features:
 * Faking authenticated and authorized user
 * Support for multiple faked user accounts and roles
 * Testing with users in different roles
-
-## References
-
-* [Using xUnit with ASP.NET Core](https://gunnarpeipman.com/aspnet-core-xunit/)
-* [Create fake user for ASP.NET Core controller tests](https://gunnarpeipman.com/aspnet-core-test-controller-fake-user/)
-* [How to exclude code from code coverage](https://gunnarpeipman.com/aspnet-core-exclude-code-coverage/)
-* [Using Entity Framework Core in-memory database for unit testing](https://gunnarpeipman.com/aspnet-core-ef-inmemory-database/)
-* [Code coverage reports for ASP.NET Core](https://gunnarpeipman.com/aspnet-core-code-coverage/)
-* [Using custom appsettings.json with ASP.NET Core integration tests](https://gunnarpeipman.com/aspnet-core-integration-tests-appsettings/)
-* [Using custom startup class with ASP.NET Core integration tests](https://gunnarpeipman.com/aspnet-core-integration-test-startup/)
-* [Faking Azure AD identity in ASP.NET Core unit tests](https://gunnarpeipman.com/aspnet-core-azure-ad-unit-test/)
-* [Create fake user for ASP.NET Core integration tests](https://gunnarpeipman.com/aspnet-core-integration-test-fake-user/)
